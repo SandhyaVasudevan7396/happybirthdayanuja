@@ -1,0 +1,4 @@
+.white-text-container{
+	display: flex;
+	flex-grow: 1; 
+}
